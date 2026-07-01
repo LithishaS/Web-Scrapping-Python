@@ -36,7 +36,7 @@ This project demonstrates how to scrape structured data from a webpage using the
 web-scraping-python/
 
 │── Web scraping.ipynb
-│── scraping.py
+│── scraping script.py
 │── Companies.csv
 │── README.md
 │── requirements.txt
